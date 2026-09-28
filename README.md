@@ -73,4 +73,6 @@ Camera framing is in `init()` (position) and the `update()` tail (`camY` /
 
 ## License
 
+© 2026 **Akram Yousri** — created by Akram Yousri. All rights reserved.
+
 Game code: do whatever you want with it. Three.js is MIT, © the Three.js authors.
